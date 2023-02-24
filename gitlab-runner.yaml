@@ -1,0 +1,7 @@
+apiVersion: apps.gitlab.com/v1beta2
+kind: Runner
+metadata:
+ name: dev
+spec:
+ gitlabUrl: https://gitlab.whatever.io
+ token: gitlab-runner-secret
