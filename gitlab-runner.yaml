@@ -5,3 +5,4 @@ metadata:
 spec:
  gitlabUrl: https://gitlab.whatever.io
  token: gitlab-runner-secret
+ config: config-toml

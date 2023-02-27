@@ -1,0 +1,4 @@
+[[runners]]
+  [runners.kubernetes]
+    privileged = true
+    allow_privilege_escalation = true
